@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Nitheesh%20Donepudi&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Engineer%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20Product%20Developer&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:0d1117&height=240&section=header&text=Nitheesh%20Donepudi&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Engineer%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20Product%20Developer&descAlignY=62&descSize=18&fontAlign=50" width="100%"/>
 
 <br/>
 
@@ -83,7 +83,7 @@ I don't just write features. I architect systems that solve real business proble
 
 - 🎯 **Goal-based booking flow** — customer picks their intent first (Sell / Protect / Restore / Maintain), then gets a custom service recommendation and quote
 - 🚗 **Interactive Before/After Gallery** — drag-to-reveal sliders on real customer vehicles (Tesla Model S, BMW X5, Porsche, etc.)
-- 📊 **"Command Central" Admin CRM** — live lead pipeline with KPI cards (pipeline value, conversion rate), filterable status phases (New → Contacted → Quoted → Scheduled → Completed), and Export Intel (CSV)
+- 📊 **“Command Central” Admin CRM** — live lead pipeline with KPI cards (pipeline value, conversion rate), filterable status phases (New → Contacted → Quoted → Scheduled → Completed), and Export Intel (CSV)
 - 🤖 **AI Assistant** — service recommendation engine with bundle psychology and anchoring
 - 📱 **Mobile Action Bar** — persistent sticky CTA for call / WhatsApp / quote
 - 📍 **Service Area coverage** — Miami, Doral, Kendall, Tamiami, Coral Gables, Miami Beach
@@ -155,7 +155,7 @@ I don't just write features. I architect systems that solve real business proble
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:0d1117&height=120&section=footer" width="100%"/>
 
 **3 production apps. Real clients. Real code. Available now.**
 
