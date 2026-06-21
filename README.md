@@ -29,6 +29,8 @@ I don't just write code. I architect systems that solve real business problems: 
 ### 🏛️ [D Scent House — Luxury E-Commerce & Automation Engine](https://github.com/Nitheesh0217/d-scent-house)
 > Enterprise-grade, full-stack e-commerce storefront and lifecycle marketing automation engine built for a luxury Arabic fragrance brand in South Florida.
 
+**Live:** [d-scent-house.vercel.app](https://d-scent-house.vercel.app) &nbsp;·&nbsp; **Admin Studio:** [d-scent-house.vercel.app/admin/studio](https://d-scent-house.vercel.app/admin/studio)
+
 **Stack:** Next.js 14 · TypeScript · Supabase PostgreSQL 15 · Python · Stripe · Resend · Hugging Face · Anthropic Claude · Vercel
 
 **What makes it different:**
